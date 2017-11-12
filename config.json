@@ -1,0 +1,16 @@
+{
+    "APIKEY": "redacted",
+    "APIURL":"https://na.api.pvp.net/api/lol/na/v2.2/match/",
+    "summonerIds": [ "Dark Horse",
+                "Stansberry2295",
+                "Adman",
+                "YUNG PTR",
+                "Ayangsta",
+                "Achangsta",
+                "Jiefuu",
+                "Lawnmowme",
+                "Bchansta",
+                "Noah Kowski"],
+    "matchIds": [2380427156],
+    "playerIDList": [[1, 0, 3, 2, 7,4,5,6,8,9]]
+}
